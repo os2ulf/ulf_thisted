@@ -68,3 +68,10 @@ a {color: #84a6b9;text-decoration: none}
 .field--collection-item {border-bottom: 1px solid gray;padding: 10px}
 .field--collection-description, .field--collection-file, .field--collection-link, .field--collection-litt {display: block;margin-bottom: 5px;width: 100%}
 .field--collection-description {font-weight: normal}
+/**
+ * World targets
+ */
+.world-targets {display: inline-block;width: 100% ;height: 100px;padding: 0;}
+.world-target {margin: 0;}
+.world-target a {display: inline-block;float: left;padding-right: 10px;}
+.world-target a img {display: block;height: 100px;width: 100px;}
