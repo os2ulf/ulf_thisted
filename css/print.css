@@ -42,12 +42,12 @@ h2 {font-size: 1.2em;margin: 0 0 10px 0}
 a {color: #84a6b9;text-decoration: none}
 .layout-element-beta, .print-title, .print-hr, .print-site_name, .print-breadcrumb, .block--pdf {display: none}
 .content {position: relative;width: 700px}
-.content--image {padding-bottom: 60px;position: relative;width: 100%}
-.field--image img {border-bottom: 5px solid #84a6b9}
-.is-dagtilbud .field--image img {border-bottom: 5px solid #f7f07b}
-.is-grundskole .field--image img {border-bottom: 5px solid #86b0a6}
-.is-ungdomsuddannelse .field--image img {border-bottom: 5px solid #f48473}
-.is-course .field--image img {border-bottom: 5px solid #82767d}
+.content--image {padding-bottom: 30px;position: relative;width: 100%}
+/*.field--image img {border-bottom: 5px solid #84a6b9}*/
+/*.is-dagtilbud .field--image img {border-bottom: 5px solid #f7f07b}*/
+/*.is-grundskole .field--image img {border-bottom: 5px solid #86b0a6}*/
+/*.is-ungdomsuddannelse .field--image img {border-bottom: 5px solid #f48473}*/
+/*.is-course .field--image img {border-bottom: 5px solid #82767d}*/
 .field--image img {width: 700px}
 .block--field-logo {margin-bottom: 30px}
 .block--light {background: #f2f2f2;display: block;margin-bottom: 10px;padding: 20px; page-break-inside: avoid;}
